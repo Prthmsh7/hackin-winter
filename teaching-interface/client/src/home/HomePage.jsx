@@ -83,7 +83,7 @@ const HomePage = () => {
                     <div id="center">
                         <div id="left">
                             <h3>
-                                Dwight ensures responsible use of Chatgpt through AI-powered monitoring, real-time risk detection, and compliance with regulations.
+                                Hackmate provides a collaboration software for the coders to code along while aiding them with multiple features like video conferencing, whiteboard etc.
                             </h3>
                             <button className="main-button">
                                 <h4>
@@ -116,11 +116,11 @@ const HomePage = () => {
                             .fill(null)
                             .map((_, i) => (
                                 <div className="con" key={i}>
-                                    <h1>MONITORING</h1>
+                                    <h1>COLLAB</h1>
                                     <div id="gola"></div>
-                                    <h1>NO RISK</h1>
+                                    <h1>CODE</h1>
                                     <div id="gola"></div>
-                                    <h1>ENVIRONMENT</h1>
+                                    <h1>LEARN</h1>
                                     <div id="gola"></div>
                                 </div>
                             ))}
@@ -163,7 +163,7 @@ const HomePage = () => {
             </div>
             <div id="footer">
                 <div id="footer-div"></div>
-                <h1>Dwight</h1>
+                <h1>HACKMATE</h1>
                 <div id="footer-bottom"></div>
             </div>
         </div>
