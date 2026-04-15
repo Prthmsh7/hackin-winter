@@ -11,7 +11,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "ace-builds": "^1.22.0",
-    "axios": "^1.7.2",
+    "axios": "^1.15.0",
     "caniuse-lite": "^1.0.30001663",
     "deep-chat-react": "^2.0.1",
     "gsap": "^3.12.5",
